@@ -1,0 +1,14 @@
+layout_spectrum: 0.6313266640063375
+typography_spectrum: 0.7598952101543546
+color:
+  brandStrength: 0.948826810810715
+  lightness: 0.4701058885548264
+  saturation: 0.033744634129107
+  rhythmicContrast: 0.41073624859564006
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: PhotoR

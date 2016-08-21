@@ -1,16 +1,24 @@
+name: PhotoR
+layout_spectrum: 0.6313266640063375
 typography_spectrum: 0.7598952101543546
+opengraph:
+  type: ''
+  appId: ''
 color:
-  brandStrength: 0.948826810810715
-  lightness: 0.4701058885548264
-  saturation: 0.033744634129107
-  rhythmicContrast: 0.41073624859564006
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-layout_spectrum: 0.6313266640063375
-name: PhotoR
-title: PhotoR
-description: All the images you will ever need
+  brandStrength: 0.948826810810715
+  lightness: 0.4701058885548264
+  saturation: 0.033744634129107
+  rhythmicContrast: 0.41073624859564006
+title: LifeDoc
+author:
+  name: Morten Pradsgaard
+  url: mopra.dk
+  email: mortenprads@gmail.com
+content_rating:
+  adult: false

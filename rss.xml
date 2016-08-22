@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LifeDoc]]></title>
+        <description><![CDATA[LifeDoc]]></description>
+        <link>https://thegrid.ai/lifedoc/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Aug 2016 22:13:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lifedoc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fea75d34eaca7f68d49f0f8aa2e0f425/croprotate.png?cropheight=3263&cropwidth=4928&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F19c1ae9e-e564-4da8-b3ce-8193dbcde510.png&x=0&y=0" alt="Agent 00?">]]></description>
+            <link>https://thegrid.ai/lifedoc/agent-00/index.html</link>
+            <guid isPermaLink="false">338a019f-95e8-4eae-9eed-36e723ccc8ee</guid>
+            <pubDate>Mon, 22 Aug 2016 22:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c6c3ddfd9f7c011c8fb2f4d4042089db/croprotate.png?cropheight=3263&cropwidth=4928&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F54b5c4e1-5e5c-4d5b-8d14-2b9ecaf97c23.png&x=0&y=0" alt="Yndige Freja">]]></description>
+            <link>https://thegrid.ai/lifedoc/yndige-freja/index.html</link>
+            <guid isPermaLink="false">1c8dd8b2-f679-411f-bc50-0f27b15db9ae</guid>
+            <pubDate>Mon, 22 Aug 2016 22:01:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

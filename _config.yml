@@ -1,21 +1,21 @@
-typography_spectrum: 0.7598952101543546
-content_rating:
-  adult: false
+layout_spectrum: 0.28950924915261567
+typography_spectrum: 0.8834872008301318
 color:
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-  brandStrength: 0.948826810810715
-  lightness: 0.4701058885548264
-  saturation: 0.033744634129107
-  rhythmicContrast: 0.41073624859564006
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.2941221196670085
+  lightness: 0.10332633415237069
+  saturation: 0.8911345356609672
+  rhythmicContrast: 0.07599686412140727
+content_rating:
+  adult: false
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.6313266640063375
 author:
   name: Morten Pradsgaard
   url: ''
